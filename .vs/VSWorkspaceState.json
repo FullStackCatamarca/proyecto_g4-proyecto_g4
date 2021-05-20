@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\js",
+    "\\scss",
+    "\\scss\\base",
+    "\\scss\\components",
+    "\\scss\\layout",
+    "\\vendor",
+    "\\vendor\\bootstrap",
+    "\\vendor\\bootstrap\\js",
+    "\\vendor\\jquery"
+  ],
+  "SelectedNode": "\\js\\contact_me.js",
+  "PreviewInSolutionExplorer": false
+}
